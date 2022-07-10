@@ -1,5 +1,5 @@
 @Library('roboshop-jenkins-shared-library') _
 
-ENV.COMPONENT="frontend"
-ENV.APP_TYPE="nginx"
+env.COMPONENT="frontend"
+env.APP_TYPE="nginx"
 nginx()
