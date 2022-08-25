@@ -4,7 +4,7 @@ trigger:
 pool: Roboshop-workstation
 
 variables:
-  COMPONENT: payment
+  COMPONENT: frontend
 
 resources:
   repositories:
